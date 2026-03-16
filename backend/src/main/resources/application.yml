@@ -38,4 +38,4 @@ logging:
   level:
     root: INFO
     org.flywaydb: DEBUG
-    com.yourpackage: DEBUG
+    com.backend: DEBUG
